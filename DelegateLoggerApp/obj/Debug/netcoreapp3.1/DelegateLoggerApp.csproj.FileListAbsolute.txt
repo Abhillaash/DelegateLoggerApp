@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Downloads\Monocept\DelegateLoggerApp\DelegateLoggerApp\bin\Debug\netcoreapp3.1\DelegateLoggerApp.exe
+C:\Users\Lenovo\Downloads\Monocept\DelegateLoggerApp\DelegateLoggerApp\bin\Debug\netcoreapp3.1\DelegateLoggerApp.deps.json
+C:\Users\Lenovo\Downloads\Monocept\DelegateLoggerApp\DelegateLoggerApp\bin\Debug\netcoreapp3.1\DelegateLoggerApp.runtimeconfig.json
+C:\Users\Lenovo\Downloads\Monocept\DelegateLoggerApp\DelegateLoggerApp\bin\Debug\netcoreapp3.1\DelegateLoggerApp.runtimeconfig.dev.json
+C:\Users\Lenovo\Downloads\Monocept\DelegateLoggerApp\DelegateLoggerApp\bin\Debug\netcoreapp3.1\DelegateLoggerApp.dll
+C:\Users\Lenovo\Downloads\Monocept\DelegateLoggerApp\DelegateLoggerApp\bin\Debug\netcoreapp3.1\DelegateLoggerApp.pdb
+C:\Users\Lenovo\Downloads\Monocept\DelegateLoggerApp\DelegateLoggerApp\obj\Debug\netcoreapp3.1\DelegateLoggerApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Monocept\DelegateLoggerApp\DelegateLoggerApp\obj\Debug\netcoreapp3.1\DelegateLoggerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Monocept\DelegateLoggerApp\DelegateLoggerApp\obj\Debug\netcoreapp3.1\DelegateLoggerApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Monocept\DelegateLoggerApp\DelegateLoggerApp\obj\Debug\netcoreapp3.1\DelegateLoggerApp.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Monocept\DelegateLoggerApp\DelegateLoggerApp\obj\Debug\netcoreapp3.1\DelegateLoggerApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Monocept\DelegateLoggerApp\DelegateLoggerApp\obj\Debug\netcoreapp3.1\DelegateLoggerApp.dll
+C:\Users\Lenovo\Downloads\Monocept\DelegateLoggerApp\DelegateLoggerApp\obj\Debug\netcoreapp3.1\DelegateLoggerApp.pdb
+C:\Users\Lenovo\Downloads\Monocept\DelegateLoggerApp\DelegateLoggerApp\obj\Debug\netcoreapp3.1\DelegateLoggerApp.genruntimeconfig.cache
